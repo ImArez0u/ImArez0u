@@ -1,5 +1,5 @@
-## Hi there 👋
-
+- 👋Hi it's Arezou
+- 🌱 I code with Html, Css and Js and I have recently started to learn Vue js
 <!--
 **ImArez0u/ImArez0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
